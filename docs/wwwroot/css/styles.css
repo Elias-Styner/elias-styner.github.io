@@ -37,14 +37,19 @@ body {
 	background-color: var(--color-background);
 	color: var(--color-foreground);
 	font-size: 16px;
+	margin: 0;
 }
 
 header {
 	position: absolute;
 	top: 0;
-	align-content: center;
 	background-color: var(--color-background);
+	padding: 0.5rem;
 }
+
+	header h1 {
+		margin: 0 auto;
+	}
 
 main {
 	max-width: 600px;
@@ -53,6 +58,11 @@ main {
 
 h1, h2, h3, h4, h5 {
 	margin: 0;
+}
+
+a {
+	color: var(--color-foreground);
+	text-decoration: none;
 }
 
 a:visited {
