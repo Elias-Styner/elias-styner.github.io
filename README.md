@@ -1,5 +1,5 @@
 ## Applikationsentwickler
-elias.styner@gmail.com | +41 79 628 50 39 | Unterentfelden, Aargau
+contact@eliasstyner.com | Unterentfelden, Aargau
 
 ---
 
