@@ -60,7 +60,11 @@ main {
 }
 
 h1, h2, h3, h4, h5 {
-	margin: 0;
+	margin: 0.25rem 0 0 0;
+}
+
+h2, h3, h4, h5 {
+	text-decoration: underline;
 }
 
 a {
@@ -83,4 +87,8 @@ ul {
 
 td {
 	min-width: 150px;
+}
+
+small {
+	font-size: 0.75rem;
 }
