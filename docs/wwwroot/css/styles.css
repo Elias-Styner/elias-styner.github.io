@@ -41,7 +41,7 @@ body {
 }
 
 header {
-	position: absolute;
+	position: fixed;
 	top: 0;
 	background-color: var(--color-background);
 	width: 100vw;
@@ -54,9 +54,8 @@ header {
 	}
 
 main {
-	margin-top: 1.75rem;
+	margin-top: 1.75rem auto;
 	max-width: 600px;
-	margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5 {
