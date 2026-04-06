@@ -55,8 +55,7 @@ header {
 	}
 
 main {
-	min-width: 460px;
-	margin: 3.5rem 0.5rem;
+	margin: 4rem 0.5rem 1rem 0.5rem;
 }
 
 h1, h2, h3, h4, h5 {
@@ -85,6 +84,10 @@ ul {
 	list-style-type: none;
 }
 
+li {
+	font-style: italic;
+}
+
 td {
 	min-width: 150px;
 }
@@ -97,6 +100,6 @@ small {
 @media (width > 600px) {
 	main {
 		max-width: 600px;
-		margin: 3.5rem auto;
+		margin: 4rem auto 1rem auto;
 	}
 }
