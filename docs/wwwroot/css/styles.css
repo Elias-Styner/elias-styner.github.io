@@ -100,6 +100,6 @@ small {
 @media (width > 600px) {
 	main {
 		max-width: 600px;
-		margin: 4rem auto 1rem auto;
+		margin: 2.75rem auto 1rem auto;
 	}
 }
