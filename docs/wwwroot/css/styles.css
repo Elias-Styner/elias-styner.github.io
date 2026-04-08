@@ -41,7 +41,7 @@ body {
 }
 
 header {
-	position: fixed;
+	position: sticky;
 	top: 0;
 	background-color: var(--color-background);
 	width: 100vw;
@@ -55,7 +55,7 @@ header {
 	}
 
 main {
-	margin: 2.75rem 0.5rem 1rem 0.5rem;
+	margin: 0.25rem 0.5rem 1rem 0.5rem;
 }
 
 h1, h2, h3, h4, h5 {
